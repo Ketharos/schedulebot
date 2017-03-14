@@ -7,7 +7,7 @@ module.exports = {
 	// The bot's command prefix. The bot will recognize as command any message that begins with it.
 	// i.e: "-schedulebot foo" will trigger the command "foo",
 	//      whereas "ScheduleBot foo" will do nothing at all.
-	prefix:  "290991162800472064", // Tip: If you use "<@YOUR_BOT_USER_ID>", you can have the prefix
+	prefix:  "-schedulebot", // Tip: If you use "<@YOUR_BOT_USER_ID>", you can have the prefix
 	                         // be a mention to your bot.
 
 	// Admin app settings
