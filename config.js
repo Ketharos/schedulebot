@@ -39,7 +39,7 @@ module.exports = {
 	// MANAGE_MESSAGES - 	0x00002000
 	// More info: https://discordapp.com/developers/docs/topics/permissions
 	delete_after_reply: {
-		enabled: true,
+		enabled: false,
 		time: 60000, // In milliseconds
 	},
 
